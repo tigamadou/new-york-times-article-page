@@ -1,4 +1,4 @@
-# PNew York Time Article Page
+# New York Time Article Page
 
 > This  project is done by Ibrahim Amadou & Wilfried Canirinka for Microverse Program.
 > We've learned CSS Basics while doing remote collaboration.
