@@ -5,6 +5,7 @@
 body{
     font-size:1.25rem;
     padding-bottom:30px;
+    
 }
 ul{
     padding:0px;
@@ -15,8 +16,9 @@ ul{
     clear: both;
 }
 main{
-    max-width: 900px;
-    margin: 0 auto;
+    max-width:1200px;
+    margin:auto;
+    
 }
 body{
     background:#fff;
@@ -69,9 +71,11 @@ ul{
     padding: 7px 15px;
     font-size: 13px;
 }
-.title h1{
+h1.page-title {
+    font-size:36px;
     max-width: 384px;
     margin-left: 15rem;
+    margin-top:60px;
 }
 .description{
     color: rgb(102, 102, 102);
@@ -229,4 +233,32 @@ ul{
 }
 .article-footer .actions .socials a span.share{
     background-image: url('../images/forward-arrow.png');
+}
+aside{
+    float:right;
+    max-width: 280px;
+    margin-left:20px;
+    padding: 15px;
+}
+.page-content{
+    float:left;
+    max-width: 900px;
+   
+}
+aside .list {
+    border-bottom:1px solid rgb(150,150,150);
+}
+aside .list .element{
+    margin-bottom:15px;
+    clear: both;
+}
+aside .list .element .date{
+    float: none;
+    font-size: 14px;
+    color:#999;
+}
+aside .list .element .title{
+    font-size:16px;
+    margin-top:5px;
+    margin-bottom:5px;
 }
