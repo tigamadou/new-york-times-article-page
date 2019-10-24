@@ -32,7 +32,7 @@ ul{
     height: 40px;
 }
 .navbar-container{
-    max-width:1600px;
+    max-width:1200px;
     margin: auto;
 }
 .navbar .navbar-start, .navbar .navbar-center, .navbar .navbar-right{
@@ -254,4 +254,52 @@ aside .list .element .title{
     font-size:16px;
     margin-top:5px;
     margin-bottom:5px;
+}
+footer{
+    clear: both;
+    padding-top:30px;
+}
+footer a{
+    color: #000;
+    text-decoration:none;
+}
+footer .footer-head {
+    grid-area:2/1/span 1/ span 2 ;
+    max-width: 1200px;
+    margin: auto;
+}
+footer .footer-head .logo{
+    float: left;
+}
+footer .footer-head .go-to{
+    float: right;
+}
+footer .footer-head .logo .svg{
+    height:24px;
+    
+}
+
+.footer-center{
+    clear: both;
+    max-width: 1200px;
+    margin: auto;
+}
+.footer-center .list{
+    float: left;
+    width:16.666%;
+}
+
+.footer-bottom{
+    clear: both;
+    padding-top: 15px;;
+    max-width: 1200px;
+    margin: auto;
+}
+.footer-bottom .list ul li{
+    float: left;
+    margin-right: 15px;
+    font-size: 14px;
+}  
+.footer-bottom .list ul li a{
+    color:#999;
 }
