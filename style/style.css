@@ -5,12 +5,11 @@
 body{
     font-size:1.25rem;
     padding-bottom:30px;
-    
 }
 ul{
     padding:0px;
     margin: 0px;
-    list-style-type: none;;
+    list-style-type: none;
 }
 .clear{
     clear: both;
@@ -18,7 +17,6 @@ ul{
 main{
     max-width:1200px;
     margin:auto;
-    
 }
 body{
     background:#fff;
@@ -193,7 +191,6 @@ h1.page-title {
     font-size:14px;
     color:#fff;
     font-weight: 500;
-
 }
 .article-footer .actions .socials{
     float: right;
@@ -208,19 +205,16 @@ h1.page-title {
     margin:5px;
     padding: 5px;
     border:1px solid rgb(200,200,200);
-    
 }
 .article-footer .actions .socials a:hover{
     background:#fff;
     border-color:#999;
 }
 .article-footer .actions .socials a span{
-    
     display: block;
     width:20px;
     height: 20px;  
     background-size:cover;
-    
 }
 .article-footer .actions .socials a span.facebook{
     background-image: url('../images/facebook.png');
@@ -243,7 +237,6 @@ aside{
 .page-content{
     float:left;
     max-width: 900px;
-   
 }
 aside .list {
     border-bottom:1px solid rgb(150,150,150);
