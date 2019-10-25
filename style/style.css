@@ -30,6 +30,12 @@ ul{
 .navbar{
     border-bottom: 1px solid rgb(150,150,150);
     height: 40px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #fff;
+    padding-top: 5px;
 }
 .navbar-container{
     max-width:1200px;
@@ -267,6 +273,8 @@ footer .footer-head {
     grid-area:2/1/span 1/ span 2 ;
     max-width: 1200px;
     margin: auto;
+    border-top: 4px solid rgb(200,200,200);
+    padding-top: 15px;
 }
 footer .footer-head .logo{
     float: left;
