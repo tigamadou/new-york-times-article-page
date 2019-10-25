@@ -251,7 +251,7 @@ aside{
 }
 .read-more .list.more{
     float:left;
-    max-width:1200px;
+    max-width:850px;
     border-top:1px solid #000;
     padding-top:15px;
 }
@@ -292,6 +292,27 @@ aside .list .element .title{
     margin-top:5px;
     margin-bottom:5px;
 }
+.most-popular{
+    float: right;
+    border-top: 1px solid #999;
+    max-width: 290px;
+}
+.most-popular .title{
+    margin:10px auto 5px;
+    font-size:16px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid rgb(226, 226, 226);
+    padding-bottom: 20px;
+}
+.most-popular .element-right a{
+    text-decoration: none;
+    border-bottom: 1px solid rgb(226, 226, 226);
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 15px;
+    display: block;
+    padding-bottom: 15px;
+}
 footer{
     clear: both;
     padding-top:30px;
@@ -315,7 +336,6 @@ footer .footer-head .go-to{
 }
 footer .footer-head .logo .svg{
     height:24px;
-    
 }
 
 .footer-center{
