@@ -1,11 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">New York Time Page</h3>
+   <h3 align="center">New York Time Page</h3>
 
   <p align="center">
     A simple clone of the New York Time Page Article.
