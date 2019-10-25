@@ -44,6 +44,11 @@ main {
   padding: 5px 10px;
 }
 
+.navbar-right {
+  position: absolute;
+  right: 0;
+}
+
 .navbar .navbar-center,
 .navbar .navbar-right,
 .navbar .navbar-start {
