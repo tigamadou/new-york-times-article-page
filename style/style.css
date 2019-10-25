@@ -4,7 +4,7 @@
 }
 body{
     font-size:1.25rem;
-    padding-bottom:30px;
+    padding-bottom:70px;
 }
 ul{
     padding:0px;
@@ -28,7 +28,7 @@ ul{
     clear: both;
 }
 .navbar{
-    border-bottom: 1px solid rgb(150,150,150);
+    border-bottom: 1px solid rgb(200,200,200);
     height: 40px;
     position: fixed;
     top: 0px;
@@ -36,6 +36,7 @@ ul{
     right: 0px;
     background-color: #fff;
     padding-top: 5px;
+    box-shadow: 0px 5px 10px rgba(200,200,200,0.3);
 }
 .navbar-container{
     max-width:1200px;
@@ -244,6 +245,36 @@ aside{
     float:left;
     max-width: 900px;
 }
+.read-more{
+    clear: both;
+    margin-top:30px;
+}
+.read-more .list.more{
+    float:left;
+    max-width:1200px;
+    border-top:1px solid #000;
+    padding-top:15px;
+}
+.read-more .list.more .list-title{
+    margin-top:0px;
+    font-size:16px;
+    font-weight: 800;;
+}
+.read-more .list.more .list-elements{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 015px;
+    grid-row-gap: 30px;
+}
+.read-more .list.more .element .title{
+    margin:10px auto 5px;
+    font-size:16px;    
+}
+.read-more .list.more .element .date{
+    font-size:14px;
+    color:#999;
+}
 aside .list {
     border-bottom:1px solid rgb(150,150,150);
 }
@@ -310,4 +341,32 @@ footer .footer-head .logo .svg{
 }  
 .footer-bottom .list ul li a{
     color:#999;
+}
+.login-bottom{
+    clear: both;
+    position:fixed;
+    height: 50px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    background: #fff;
+    border-top: 1px solid rgb(200,200,200);
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px -5px 10px rgba(200,200,200,0.3);
+}
+.login-bottom .button{
+    position:absolute;
+    right:100px;
+}
+.login-bottom .button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px;
+}
+.login-bottom .button .icon img{
+    height: 20px;
 }
