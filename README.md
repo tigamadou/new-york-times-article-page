@@ -8,7 +8,7 @@
     <br />    
     <br />
     ·
-     <a href="https://rawcdn.githack.com/genzaraki/new-york-times-article-page/7b90ba03fad9e5117b0d4d36abab26fcfbad41e1/index.html">View Demo</a>
+     <a href="https://genzaraki.github.io/new-york-times-article-page/">View Demo</a>
     ·    
   </p>
 </p>
