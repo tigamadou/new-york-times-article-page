@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](images/screen-shot.png)
+![Screenshot Image](images/screen-shot.png)
   We are Amadou and Wilfried. We are part of the Microverse Project and we did this page according to the required specifications.  
 
 
