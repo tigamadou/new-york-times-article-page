@@ -1,31 +1,50 @@
-# New York Time Article Page
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+   <h3 align="center">New York Time Page</h3>
 
-> This  project is done by Ibrahim Amadou & Wilfried Canirinka for Microverse Program.
-> We've learned CSS Basics while doing remote collaboration.
+  <p align="center">
+    A simple clone of the New York Time Page Article.
+    <br />    
+    <br />
+    ·
+     <a href="https://rawcdn.githack.com/genzaraki/new-york-times-article-page/7b90ba03fad9e5117b0d4d36abab26fcfbad41e1/index.html">View Demo</a>
+    ·    
+  </p>
+</p>
 
-## Live Demo
-***<a href="https://genzaraki.github.io/new-york-times-article-page/"> Live Demo</a>***
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
 
-**Technical Tools**
 
-- HTML5
-- CSS3
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-**Collaboration tools Used**
-
-- Zoom
-- Slack
-
-**Contributors**
+![Screenshot Image](images/screen-shot.png)
+  We are Amadou and Wilfried. We are part of the Microverse Project and we did this page according to the required specifications.  
 
 
-***Amadou Ibrahim***
-- <a href="https://github.com/genzaraki" target="_blank">GitHub</a>
-- <a href="https://www.linkedin.com/in/amadou-ibrahim-75769167/" target="_blank">LinkedIn</a>
-- <a href="https://twitter.com/tigamadou" target="_blank">Twitter</a>
+### Build With
 
-***Wilfried Canirinka***
-- <a href="https://github.com/WCanirinka" target="_blank">GitHub</a>
-- <a href="https://www.linkedin.com/in/wilfried-canirinka-884ab0b6/" target="_blank">LinkedIn</a>
-- <a href="https://twitter.com/WCanirinka" target="_blank">Twitter</a>
+* [Html]()
+* [CSS]()
+* [VSCODE]()
+
+
+### Contact
+* Amadou - [@tigamadou](https://twitter.com/tigamadou) - [LinkedIn](https://www.linkedin.com/in/amadou-ibrahim-75769167) - [GitHub](https://github.com/genzaraki)
+* Wilfried - [@WCanirinka](https://twitter.com/WCanirinka)  - [LinkedIn](https://www.linkedin.com/in/wilfried-canirinka-884ab0b6/) - [GitHub](https://github.com/WCanirinka)
+* Project Link [https://github.com/genzaraki/new-york-times-article-page](https://github.com/genzaraki/new-york-times-article-page)
+
+### Acknowledgements
+
+* [GitHub](https://github.com)
+* [VSCODE]()
+* [StyleLint]()
+* [Stickler]()
